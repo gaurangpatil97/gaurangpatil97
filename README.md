@@ -31,9 +31,9 @@
 
 ### 📊 GitHub Activity & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaurangpatil97&show_icons=true&theme=tokyonight&count_private=true" alt="Gaurang's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gaurangpatil97&show_icons=true&theme=radical&count_private=true" alt="Gaurang's Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurangpatil97&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurangpatil97&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
